@@ -124,5 +124,5 @@ The generated plot (`soil_moisture_analysis.png`) will display time-series data 
 Contributions are welcome! If you want to contribute, please fork the repository, create a new branch, and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kyadav40/TeamY/blob/main/LICENSE) file for details.
 
