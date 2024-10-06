@@ -52,8 +52,8 @@ Make sure you have the following software installed on your system:
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/soil-moisture-analysis.git
-   cd soil-moisture-analysis
+   https://github.com/kyadav40/TeamY.git
+   cd TeamY
    ```
 
 2. **Install the required Python dependencies**:
@@ -119,13 +119,6 @@ Date,SoilMoisture
 
 The generated plot (`soil_moisture_analysis.png`) will display time-series data for the three months, along with marked regions for drought and flood conditions.
 
-### Example Plot
-You can also add a sample screenshot of the generated plot here:
-
-```
-![soil_moisture_analysis](https://github.com/user-attachments/assets/ce09d926-4ebe-40f3-a0a5-68c7b955f0bf)
-
-```
 
 ## Contributing
 Contributions are welcome! If you want to contribute, please fork the repository, create a new branch, and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
@@ -133,16 +126,3 @@ Contributions are welcome! If you want to contribute, please fork the repository
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-### Customization Tips:
-1. **Update Repository Links**:
-   Replace `https://github.com/username/soil-moisture-analysis.git` with your actual GitHub repository link.
-
-2. **Add a Screenshot**:
-   Include a sample screenshot of the plot for better understanding.
-
-3. **Include More Detailed Descriptions**:
-   If you have additional features or specific use cases, feel free to add them under the relevant sections.
-
-Let me know if this README meets your requirements or if you need any additional details!
