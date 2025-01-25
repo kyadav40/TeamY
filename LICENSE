@@ -2,6 +2,15 @@ MIT License
 
 Copyright (c) 2024 [Kunal Yadav]
 
+This project addresses the critical challenge of helping farmers make informed 
+agricultural decisions using soil moisture data from Earth Observation datasets. 
+This challenge was presented by NASA as a part of the 2024 hackathon. The tool 
+analyzes soil moisture levels over a given period, detects extreme conditions 
+like droughts or floods, and offers actionable recommendations. It includes a 
+C++ application for data processing and a Python script for visualizing the 
+analysis. By leveraging this tool, farmers can plan irrigation, implement 
+drainage strategies, and make data-driven decisions to improve agricultural productivity.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
